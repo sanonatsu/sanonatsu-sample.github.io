@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>sanonatsu</title>
-<link rel="stylesheet" href="sanonatsu_style.css">
+<link rel="stylesheet" href="https://sanonatsu.github.io/sanonatsu-sample.github.io/sanonatsu_style.css">
 <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
 </head>
 
